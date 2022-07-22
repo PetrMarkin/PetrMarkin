@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif" width="100"/>
   <h1>
-  Hello!
+  Hello, I am Petr!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -13,6 +13,8 @@
 - :man_technologist: I'm beginer front-end developer.
 - :palm_tree: I live in Sochi. Study on the course [rs-school](https://rs.school/js/)
 - :hourglass: I coding in my free time and like to solve kata on сodwars
+
+[![codewars](https://www.codewars.com/users/PetrMarkin/badges/large)](https://www.codewars.com/users/PetrMarkin)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
