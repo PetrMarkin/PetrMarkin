@@ -10,7 +10,7 @@
 </div>
 
 ### :dark_sunglasses: About me:
-- :man_technologist: I'm beginer front-end developer.
+- :man_technologist: I'm beginner front-end developer.
 - :palm_tree: I live in Sochi. Study on the course [rs-school](https://rs.school/js/)
 - :hourglass: I coding in my free time and like to solve kata on сodwars
 
