@@ -14,7 +14,7 @@
 - :palm_tree: I live in Sochi. Study on the course [rs-school](https://rs.school/js/)
 - :hourglass: I coding in my free time and like to solve kata on сodwars
 
-[![codewars](https://www.codewars.com/users/PetrMarkin/badges/large)](https://www.codewars.com/users/PetrMarkin)
+[![codewars](https://www.codewars.com/users/rsschool_962509c2d3e7590a/badges/large)](https://www.codewars.com/users/rsschool_962509c2d3e7590a)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
