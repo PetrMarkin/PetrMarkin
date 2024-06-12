@@ -30,7 +30,7 @@
 
 <table>
   <tr>
-    <th align="center"><img width="280" height="1"><p><small>Educational</small></p></th>
+    <th align="center"><img width="200" height="1"><p><small>Educational</small></p></th>
     <th align="center"><img width="280" height="1"><p><small>Description</small></p></th>
     <th align="center"><img width="280" height="1"><p><small>Technology stack</small></p></th>
   </tr>
